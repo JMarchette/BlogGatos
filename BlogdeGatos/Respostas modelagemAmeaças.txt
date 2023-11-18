@@ -1,0 +1,60 @@
+Segundo o artigo "Threat Modeling as a Basis for Security Requirements", ao criar um modelo de ameaças o analista responsável deve responder questões como:
+
+Quanta informação interna do sistema o adversário em questão poderia ter em mãos.
+Comentários:
+Correto!
+
+Quem são meus potenciais adversários?
+Comentários:
+Correto!
+
+Quais são as motivações e objetivos dos meus adversários?
+Comentários:
+Correto!
+
+Segundo o artigo "Threat Modeling as a Basis for Security Requirements", podemos afirmar que:
+Sem identificar ameaças, é impossível fornecer garantia para o sistema e justificar as medidas de segurança adotadas.
+
+Segundo o artigo "Threat Modeling as a Basis for Security Requirements", qual das classes de ameaça abaixo está incorretamente definida?
+Elevation of privilege - ocorre quando um usuário privilegiado decresce seu privilégio no sistema.
+
+Assinale as opções corretas sobre árvores de ataque:
+Elas fornecem uma maneira de pensar sobre segurança, de capturar e reutilizar conhecimentos sobre segurança e de responder às mudanças na segurança.
+
+As árvores de ataque fornecem uma metodologia formal para analisar a segurança de sistemas e subsistemas.
+
+As árvores de ataque formam a base para a compreensão do processo de segurança.
+
+
+Sobre o ciclo de desenvolvimento seguro de aplicações, assinale V para a afirmativa verdadeira e F para a falsa.
+(   ) Uma das práticas definidas pelo modelo SDL da Microsoft é a modelagem de ameaças.
+
+(   ) Uma análise estática de segurança (SAST) exige que a aplicação já esteja em funcionamento.
+
+(   ) O conserto de vulnerabilidades descobertas por meio de análise dinâmica de segurança (DAST) costuma custar mais caro do que aquelas  descobertas no início do ciclo de desenvolvimento.
+
+(   ) Modelagem de ameaças somente pode ser realizada em sistemas que ainda não foram construídos.
+
+As afirmativas são, respectivamente: 
+V, F, V, F.
+
+Analise as duas afirmações abaixo e assinale a alternativa correta:
+
+I) A modelagem de ameaças corresponde a uma técnica de levantamento de requisitos de segurança de software na qual se estudam cenários de ataque a que o software possa estar submetido e maneiras de prevenir ou mitigar efeitos de tal ataque.
+
+II) Na metodologia de desenvolvimento seguro de software SDL (Security Development Lifecycle), a modelagem de ameaças é realizada na fase de requisitos.
+Somente a alternativa I é correta.
+
+Coloque em ordem as etapas do processo de modelagem de ameaças de acordo com as perguntas que você deve responder em cada etapa, segundo Adam Shostack.
+o que vc esta construindo?
+o que pode dar errado quando ele estiver construido
+O que vc deveria fazer a respeito dessas coisas que podem dar errado?
+seu trabalho de analise foi feito com qualidade?
+
+Qual o principal modelo para identificarmos as ameaças aos sistemas digitais?
+STRIDE
+
+
+
+
+
