@@ -1,7 +1,83 @@
 .body {
     background-color: #ffffff;
+    font-family: 'Segoe UI', Roboto,'Helvetica Neue';
 }
 
-.logo{
-text-align: center;
+
+/* Propriedades do cabeçalho da página */
+header{ 
+  height: 100%;
+  width: 100%;
+  margin-top: 0;
+  margin-bottom: 0;
+  background-color: #065E7C;
+  color: white;
+  padding: 12px, 112px, 12px, 112px;
 }
+
+#logoPatas{
+    position: relative;
+    left: 150px;
+    top: 20px;
+}
+
+#containerCabecalho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/************************************************************/
+
+
+/******** Propriedades da barra de pesquisa: ********/
+
+.barraPesquisa{ /* Classe da barra de pesquisa */
+    padding: 10px 500px;
+    background-color: #387E96;
+    border-radius: 5px;
+    border: none;
+}
+
+.barraPesquisa::placeholder{
+    color:#ffffff;
+}
+
+#barraPesquisa{ /*Div da barra de pesquisa*/
+    position: relative;
+    margin-left: 220px;
+    top: -20px;
+}
+/************************************************************/
+
+
+
+/* Propriedades da imagem e do texto da página: */
+#imagemGato{
+    width: 800px;
+}
+
+#containerImagem{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 100%;
+}
+
+#containerTexto{ 
+    margin-right: 600px;
+}
+
+h1 { /*Título do texto*/
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+p{ /*Texto sobre os gatos*/
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+#imagemLike, #imagemDeslike {
+    float: right;
+    margin-right: 100px;
+}
+/************************************************************/
